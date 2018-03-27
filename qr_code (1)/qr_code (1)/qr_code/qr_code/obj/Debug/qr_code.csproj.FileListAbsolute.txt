@@ -1,0 +1,35 @@
+c:\users\юлия\documents\visual studio 2013\Projects\qr_code\qr_code\bin\Debug\qr_code.exe.config
+c:\users\юлия\documents\visual studio 2013\Projects\qr_code\qr_code\obj\Debug\qr_code.csprojResolveAssemblyReference.cache
+c:\users\юлия\documents\visual studio 2013\Projects\qr_code\qr_code\obj\Debug\qr_code.Form1.resources
+c:\users\юлия\documents\visual studio 2013\Projects\qr_code\qr_code\obj\Debug\qr_code.Properties.Resources.resources
+c:\users\юлия\documents\visual studio 2013\Projects\qr_code\qr_code\obj\Debug\qr_code.csproj.GenerateResource.Cache
+c:\users\юлия\documents\visual studio 2013\Projects\qr_code\qr_code\bin\Debug\qr_code.exe
+c:\users\юлия\documents\visual studio 2013\Projects\qr_code\qr_code\bin\Debug\qr_code.pdb
+c:\users\юлия\documents\visual studio 2013\Projects\qr_code\qr_code\bin\Debug\MessagingToolkit.QRCode.dll
+c:\users\юлия\documents\visual studio 2013\Projects\qr_code\qr_code\obj\Debug\qr_code.exe
+c:\users\юлия\documents\visual studio 2013\Projects\qr_code\qr_code\obj\Debug\qr_code.pdb
+C:\Users\moroz\Desktop\qr_code (1)\qr_code\qr_code\bin\Debug\qr_code.exe.config
+C:\Users\moroz\Desktop\qr_code (1)\qr_code\qr_code\bin\Debug\qr_code.exe
+C:\Users\moroz\Desktop\qr_code (1)\qr_code\qr_code\bin\Debug\qr_code.pdb
+C:\Users\moroz\Desktop\qr_code (1)\qr_code\qr_code\obj\Debug\qr_code.csprojResolveAssemblyReference.cache
+C:\Users\moroz\Desktop\qr_code (1)\qr_code\qr_code\obj\Debug\qr_code.Form1.resources
+C:\Users\moroz\Desktop\qr_code (1)\qr_code\qr_code\obj\Debug\qr_code.Properties.Resources.resources
+C:\Users\moroz\Desktop\qr_code (1)\qr_code\qr_code\obj\Debug\qr_code.csproj.GenerateResource.Cache
+C:\Users\moroz\Desktop\qr_code (1)\qr_code\qr_code\obj\Debug\qr_code.csproj.CoreCompileInputs.cache
+C:\Users\moroz\Desktop\qr_code (1)\qr_code\qr_code\obj\Debug\qr_code.exe
+C:\Users\moroz\Desktop\qr_code (1)\qr_code\qr_code\obj\Debug\qr_code.pdb
+C:\Users\moroz\Desktop\qr_code (1)\qr_code\qr_code\bin\Debug\messagingtoolkit.barcode.dll
+C:\Users\moroz\Desktop\qr_code (1)\qr_code\qr_code\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\moroz\Desktop\qr_code (1)\qr_code\qr_code\bin\Debug\BarcodeLib.BarcodeReader.dll
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\bin\Debug\qr_code.exe.config
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\bin\Debug\qr_code.exe
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\bin\Debug\qr_code.pdb
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\bin\Debug\messagingtoolkit.barcode.dll
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\obj\Debug\qr_code.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\obj\Debug\qr_code.Properties.Resources.resources
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\obj\Debug\qr_code.csproj.GenerateResource.Cache
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\obj\Debug\qr_code.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\obj\Debug\qr_code.exe
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\obj\Debug\qr_code.pdb
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\obj\Debug\qr_code.Form1.resources

@@ -1,0 +1,11 @@
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\bin\Debug\qr_code.exe.config
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\bin\Debug\qr_code.exe
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\bin\Debug\qr_code.pdb
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\bin\Debug\messagingtoolkit.barcode.dll
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\obj\Debug\QR-Barcode.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\obj\Debug\qr_code.Form1.resources
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\obj\Debug\qr_code.Properties.Resources.resources
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\obj\Debug\QR-Barcode.csproj.GenerateResource.Cache
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\obj\Debug\QR-Barcode.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\obj\Debug\qr_code.exe
+C:\Users\Юрий\Desktop\qr_code (1)\qr_code\qr_code\obj\Debug\qr_code.pdb
